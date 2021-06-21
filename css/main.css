@@ -3,26 +3,26 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.taskThree h1 {
     color: #445161;
     font-size: 30px;
 }
 
-h2 {
+.taskThree h2 {
     color: #445161;
     font-size: 25px;
 }
 
-.text {
+.taskThree .text {
     color: #333333;
     line-height: 25px;
 }
 
-.bold {
+.taskThree .bold {
     color: #333333;
     font-weight: 700;
 }
 
-.red {
+.taskThree .red {
     color: red;
 }
